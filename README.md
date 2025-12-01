@@ -29,7 +29,7 @@ pinMode(LED_BUILTIN, OUTPUT);
 
 ### Två basfunktionerna i Arduino
 ```cpp
-Setup ()
+setup()
 ```
 - Startar programmet
 
