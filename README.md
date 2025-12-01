@@ -13,6 +13,9 @@ File → Preferences → Additional Boards URL
 Installera ”ESP8266” under Tools → Board → Boards Manager
 Välj: Tools → Board → NodeMCU 1.0 (ESP-12E Module)
 
+
+File --> Examples --> Basic --> Blink
+
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/55122957-bed1-4c3b-ba98-f172014a5186" />
 
 ## Vad är mikroprocesser?
@@ -20,4 +23,3 @@ En mikroprocessor är "Hjärnan" som finns i en elektroniska enhet. Den följer 
 
 
 
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/55122957-bed1-4c3b-ba98-f172014a5186" />
