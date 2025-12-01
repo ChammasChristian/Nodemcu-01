@@ -21,5 +21,12 @@ File --> Examples --> Basic --> Blink
 ## Vad är mikroprocesser?
 En mikroprocessor är "Hjärnan" som finns i en elektroniska enhet. Den följer instruktioner som vi skriver i ett program och bestämmer vad som ska hända. Tex. Tända och släcka en LED.
 
+## Vad är Portinitialisering
+Portinitialisering innebär att vi talar om för NodeMCU vad varje pinne ska göra innan vi använder den. Tex. Vi sätter LED-pinnen som utgång så att vi kan tända och släcka LED.
+```ccp
+pinMode(LED_BUILTIN, OUTPUT);
+```
+
+
 
 
