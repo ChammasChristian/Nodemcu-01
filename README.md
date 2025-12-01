@@ -1,5 +1,5 @@
 ## Introduktion
-Detta projekt visar hur man skriver ett blinkprogram, syftet är att förstå hur man styr en inbyggd LED med kod. 
+I denna presentation kommer jag att gå igenom det vi har lärt oss de senaste föreläsningarna/LAB
 
 ## Vad är Arduino IDE
 Arduino IDE är ett program där man skriver och laddar upp kod till mikrokontrollers som NodeMCU.
@@ -26,6 +26,18 @@ Portinitialisering innebär att vi talar om för NodeMCU vad varje pinne ska gö
 ```ccp
 pinMode(LED_BUILTIN, OUTPUT);
 ```
+
+### Två basfunktionerna i Arduino
+```cpp
+Setup ()
+```
+- Startar programmet
+
+```cpp
+loop()
+```
+- Kör om och om igen 
+  
 
 
 
